@@ -12,6 +12,7 @@ function AutoLayoutExample() {
         <Col>
           <div className='firstHeading col-6'>
             <h1>DISCOVER, AND COLLECT DIGITAL ART NFTS</h1>
+            <p>We will give you the best project </p>
             <p>aiendis veniam est!</p>  
             <Button className='' variant="outline-success">Explore Now</Button> 
             <span>
