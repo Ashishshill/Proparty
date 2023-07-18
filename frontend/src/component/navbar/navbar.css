@@ -1,0 +1,24 @@
+.searchInput{
+    border-radius: 25px;
+    margin-right: 15px;
+}
+
+.firstBtn{
+    border-radius: 22px;
+    padding: 10px 40px;
+    /* margin-right: 25px; */
+}
+.secoundBtn{
+    border-radius: 22px;
+    padding: 10px 40px;
+    margin-left: 20px;
+}
+.col-lg-6 {
+    flex: 0 0 auto;
+    width: 65%;
+}
+.navbar{
+    margin-top: 25px;
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+}
